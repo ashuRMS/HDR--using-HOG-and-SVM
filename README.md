@@ -16,5 +16,6 @@ A machine learning model SVM is used to learn the digit classification. The digi
 ## Experimenting with new evaluation set.
 - On Hand crafted images: Custom unlabeled data-set was created to test the model. Accuracy was found to be 80%.
 - On digits written on crumbled paper: Paper was slightly crumbled which makes it harder for getting the results from the classifier. Accuracy-70%.
-- Affine transformed digits: Randomly rotated few imgaes was given as input to model. Accuracy:20%.
+- Affine transformed digits: Randomly rotated few imgaes was given as input to model. Accuracy- 20%. Poor performnce is expected.
+- On Lined-Digit Dataset: Few random lines were drawn on the digit image and given as input to model. Accuracy-70%.
 - 
