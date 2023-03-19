@@ -1,5 +1,12 @@
 # HDR--using-HOG-and-SVM
 This repository contains my Course project in Computer Vision. The paper is titled "Robust handwritten digit recognition using SVM and HOG"
+## Requirements.
+- Python 3.10.7
+- OpenCV
+- Pandas
+- Numpy
+- matplotlib
+
 ## Project Details
 A machine learning model SVM is used to learn the digit classification. The digits are taken from 3 languages named Devanagari, Bangla and Telugu. The aim is to recognize the digits as well as the language of the numeral, under various conditions.
 - Description of approach: Entire data-set of images were preprocessed in which we resized the images, convetred them to grayscale and extracted HOG features. HOG features is very efficient way of describing hand written text which was the input for the classifier. Performance metrics such as accuracy, precision, recall and F-1 scores are used for gauging the results from the classifier.
