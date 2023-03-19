@@ -1,5 +1,8 @@
 # HDR--using-HOG-and-SVM
 This repository contains my course project in Computer Vision. The paper is titled "Robust handwritten digit recognition using SVM and HOG."
+
+## Youtube video link:
+[Click here](https://www.youtube.com/watch?v=7tFfr2H45mk)
 ## Requirements.
 - Python 3.10.7
 - OpenCV
