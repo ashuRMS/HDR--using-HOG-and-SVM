@@ -18,4 +18,5 @@ A machine learning model SVM is used to learn the digit classification. The digi
 - On digits written on crumbled paper: Paper was slightly crumbled which makes it harder for getting the results from the classifier. Accuracy-70%.
 - Affine transformed digits: Randomly rotated few imgaes was given as input to model. Accuracy- 20%. Poor performnce is expected.
 - On Lined-Digit Dataset: Few random lines were drawn on the digit image and given as input to model. Accuracy-70%.
-- 
+- On varying digit thickness: Writing pressure can vary from person to person so varying thickness digit images were also tested. But initial results shows poor accuracy   of 20%. But after using cv2.crode function which dilates the thickness of the digit digitally here we got the accuracy of 70%.
+- Low illuminated digits: Classifiers or any other vision learning algorithms have hard time in recognizing the images taken in low light. Although computational photography has improved this condition a lot still there are challenges in low light images. Model without any preprocessing in our case gave accuracy of 50% only. But after few tweakes we were able to get it to 60%. Including removing blurr using gaussian blurr technique which improved the accuracy to 60%.
