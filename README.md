@@ -8,7 +8,7 @@ This repository contains my Course project in Computer Vision. The paper is titl
 - matplotlib
 - skiit-learn
 - pickle 
-- sezborn
+- seaborn
 ## Project Details
 A machine learning model SVM is used to learn the multi - digit classification. The digits were taken from 3 languages named Devanagari, Bangla, and Telugu. The aim is to recognize the digits as well as the language of the digit under various conditions.
 - Description of approach: Entire data set of images were preprocessed in which we resized the images, converted them to grayscale, and extracted HOG features. HOG features is a very efficient way of describing hand written text which was the input for the classifier. Performance metrics such as accuracy, precision, recall and F-1 scores are used for gauging the results from the classifier.
