@@ -12,7 +12,7 @@ This repository contains my course project in Computer Vision. The paper is titl
 - Pandas
 - Numpy
 - matplotlib
-- skiit-learn
+- scikit-learn
 - pickle 
 - seaborn
 ## Project Details
