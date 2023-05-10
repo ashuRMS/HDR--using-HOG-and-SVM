@@ -5,7 +5,7 @@ This repository contains my course project in Computer Vision. The paper is titl
 [Click here](https://www.youtube.com/watch?v=7tFfr2H45mk)
 
 ## Powerpoint presentation link:
-[Click here](https://docs.google.com/presentation/d/1549D5g8qYLUsJZkgZ2nqHQRxt5jLL3Qz0dV325RIg9Q/edit?usp=sharing)
+[Click here](https://docs.google.com/presentation/d/1axjkKq4LzQNtjLYGwFTwYUIXyhATz94rqPNMfJE5DMc/edit?usp=sharing)
 ## Requirements.
 - Python 3.10.7
 - OpenCV
